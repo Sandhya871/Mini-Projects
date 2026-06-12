@@ -45,7 +45,13 @@ Enter a choice (rock, paper, scissors): scissors
 palyer: scissors
 computer: rock
 You lose!
-Play again? (y/n): 
+Play again? (y/n): y
+Enter a choice (rock, paper, scissors): rock
+palyer: rock
+computer: paper
+You lose!
+Play again? (y/n): n
+Thanks for playing!
 
 
 
