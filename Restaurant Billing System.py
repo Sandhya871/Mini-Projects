@@ -75,7 +75,7 @@ with open("receipt.txt", "w") as file:
 print("\nReceipt saved successfully as 'receipt.txt'")
 
 
-# OUTPUT
+**OUTPUT
 ========== MENU ==========
 pizza      : $3.00
 nachos     : $4.50
